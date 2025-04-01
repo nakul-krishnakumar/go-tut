@@ -1,6 +1,6 @@
 # GOLang Tutorial - Hello World
 
-- ```main.go``` works like ```index.js```
+- ```main.go``` works like ```index.js``` ( doesn't always have to be ```main.go``` , can be named anything, naming it ```main``` is just a convention)
 - ```main.go``` will have a ```main``` function is the starting point of execution, just like in C/C++
 - GO uses a ```fmt``` package for basic functions like print, println
 - To run a GO file, do 
