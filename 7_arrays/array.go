@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// Array Initialization
+	// Array Declaration
 	var nums [4]int
 
 	// Length of the Array
@@ -13,7 +13,7 @@ func main() {
 	// Printing Array
 	fmt.Println("Array: ", nums)
 
-	// Initialize and Declare Array
+	// Declare and Initialize Array
 	nums2 := [3]int{1, 2, 3}
 	fmt.Println("Second Array: ", nums2)
 
